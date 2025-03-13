@@ -6,6 +6,8 @@ Fiz essa analise de dados para este conjunto de dados, com a finalidade de aprim
 
 O intuito geral desse aprendizado, alem do fato de aprimorar habilidades do Databricks e SQL, era com a finalidade de expandir um pouco o meu leque de trabalhos em outras areas fins, acredito que esse material foi de grande valia para meu conhecimento e para meu portfolio.
 
+Depois tambem anexo aqui toda as versoes que fui utilizando e salvando.
+
 Espero que gostem e contem comigo para retirar quaisquer duvidas
 
 OBS: Meu teclado nao esta funcionando os acentos gramaticais 😂
