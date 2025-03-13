@@ -1,6 +1,6 @@
 # Project Financial Fraud
 
-Ola, queridos(as) desta comunidade de dados!
+Ola, colegas desta comunidade de dados!
 
 Fiz essa analise de dados para este conjunto de dados, com a finalidade de aprimorar minhas habilidades em SQL, utilizando como meio a plataforma do Databricks.
 
